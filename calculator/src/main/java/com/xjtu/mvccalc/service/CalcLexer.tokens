@@ -1,0 +1,16 @@
+DIV=8
+ADD=9
+SUB=10
+NUMBER=3
+LINE_COMMENT=5
+MUL=7
+T__1=1
+T__0=2
+WS=6
+COMMENT=4
+'-'=10
+'+'=9
+'*'=7
+')'=2
+'('=1
+'/'=8
